@@ -1,0 +1,8 @@
+.idea
+.vs
+bin
+obj
+**.Development.*
+logs
+**.DotSettings.user
+hs_err_pid*.log
